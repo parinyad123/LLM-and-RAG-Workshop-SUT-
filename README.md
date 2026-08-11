@@ -18,6 +18,7 @@ Technology (SUT).
 | `HandOn2_Document Processing & Embeddings.ipynb` | Text splitters, chunking, embeddings |
 | `HandOn3_Vector DB & Retriever.ipynb` | FAISS vector store, Top-K vs. MMR retrievers, Gradio |
 | `HandOn4_RAG.ipynb` | End-to-end RAG chain + bring-your-own-document practice |
+| `API-key-setup-guide.pdf` | Walk-through for creating your own Hugging Face and Groq API keys |
 
 ## Getting started
 
