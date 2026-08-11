@@ -31,3 +31,10 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
+# Combined docs (generated)
+notebooks_combined.md
+slides_combined.md
+
+# Source slides (PowerPoint)
+*.pptx
